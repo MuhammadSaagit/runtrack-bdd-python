@@ -1,0 +1,1 @@
+mysql> insert into etudiants (nom, prenom, age, email) value("Dupuis", "Martin", "18", "Martin.Dupuis@laplateforme.io");
